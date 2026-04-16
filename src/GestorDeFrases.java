@@ -61,8 +61,9 @@ public class GestorDeFrases {
         /*********************************************************************************
          ** Parte 2: Uso de StringBuilder
          *********************************************************************************/
-
-        // 1. Crear un StringBuilder a partir de la frase (usar new StringBuilder())
+        
+        // 1. Crear un StringBuilder a partir de la frase1 (usar new StringBuilder())
+        // A partir de se utilizará la variable de StringBuilder y se irá modificando en cada paso.
         // 2. Agregar " ¡Bienvenido a Java!" al final (usar append())
         System.out.println("Resultado tras usar append(): ");
 
